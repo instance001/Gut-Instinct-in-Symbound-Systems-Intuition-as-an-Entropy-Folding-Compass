@@ -25,7 +25,7 @@ pytest
   author  = {Paterson, Anthony},
   year    = {2025},
   note    = {Preprint, Symbound entropy series},
-  url     = {https://github.com/<<pending-repo>>}
+  url     = {https://github.com/Gut-Instinct-in-Symbound-Systems-Intuition-as-an-Entropy-Folding-Compass}
 }
 ```
 
