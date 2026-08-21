@@ -2,6 +2,8 @@
 
 Repository scaffold for the intuition/gut-instinct paper `paper.md`.
 
+Terminology boundary: gut instinct is retained as the paper's readable term for human pattern-sense in Symbound workflows. It is not a correctness guarantee, diagnostic faculty, mind reading, or evidence of model feelings/agency; logged flags must still be tested against counterexamples, metrics, and reproducible notes.
+
 ## Contents
 - `paper.md` — full draft.
 - `src/intuition.py` — stubs for gut-flag logging and patina recaps.
@@ -31,4 +33,4 @@ pytest
 
 ## Notes
 - Keep empathy-capsule lines visible to avoid anthropomorphic drift.
-- Emotional distinctiveness should be able to veto high semantic overlap; wire tests accordingly.
+- Emotional distinctiveness may veto high semantic overlap when paired with explicit checks; wire tests accordingly.
